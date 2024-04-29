@@ -5,7 +5,7 @@ body {
   }
   
   .heading {
-    color: darkblue;
+    color: lightblue;
     text-align: center;
     padding-top: 10px;
     font-size: 35px;
@@ -32,7 +32,7 @@ body {
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
     font-size: 18px;
     height: 200px;
-    color: darkblue;
+    color: grey;
     border: none;
     outline: none;
     background: rgba(255, 255, 255, 0.1);
